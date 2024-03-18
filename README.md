@@ -5,11 +5,11 @@ Instructions:
 
     In Intellij, go to File > Open, and then select the folder Assignment3Part1
 
-    First you need to import the library from https://jdbc.postgresql.org/download/ (download latest version)
+    First you need to import the library from https://jdbc.postgresql.org/download/ (download latest version), or you could use the postgresql-42.7.3.jar file that I have included.
 
     Then in Intellij, go to File > Project Structure
     
-    Got to Libraries, click the add and button and select the downloaded JDBC file
+    Got to Libraries, click the add and button and select the downloaded JDBC file (or the .jar file I included)
 
 Execution:
 
