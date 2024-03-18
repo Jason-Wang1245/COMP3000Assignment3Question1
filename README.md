@@ -5,6 +5,14 @@ Instructions:
 
     In Intellij, go to File > Open, and then select the folder Assignment3Part1
 
+    First you need to import the library from https://jdbc.postgresql.org/download/ (download latest version)
+
+    Then in Intellij, go to File > Project Structure
+    
+    Got to Libraries, click the add and button and select the downloaded JDBC file
+
+Execution:
+
     The Java class file is under src/Main.java
     
     The 4 functions can be called within the if(conn != null) block, which I have also included the examples I used during my demo video
