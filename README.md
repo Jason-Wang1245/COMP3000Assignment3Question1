@@ -11,7 +11,7 @@ Instructions:
     
     All 4 functions are below the main function
 
-    Click Run in Main.java in Intellij to run the code
+    Click Run (Green triangle to right) in Main.java in Intellij to run the code
 
 In PgAdmin:
 
