@@ -17,7 +17,7 @@ public class Main {
 //                addStudent("Jason", "Wang", "jasonwang9@cmail.carleton.ca", "2022-09-01", conn);
 //                updateStudentEmail(4, "jasonwang1245@gmail.com", conn);
 //                deleteStudent(7, conn);
-//                getAllStudents(conn);
+                getAllStudents(conn);
             } else {
                 System.out.println("Failed to establish connection.");
             } // Close the connection (in a real scenario, do this in a finally

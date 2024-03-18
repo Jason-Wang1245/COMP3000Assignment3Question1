@@ -14,6 +14,8 @@ Instructions:
 Execution:
 
     The Java class file is under src/Main.java
+
+    Set your username and password for String user and String password (line 7 and 8)
     
     The 4 functions can be called within the if(conn != null) block, which I have also included the examples I used during my demo video
     
