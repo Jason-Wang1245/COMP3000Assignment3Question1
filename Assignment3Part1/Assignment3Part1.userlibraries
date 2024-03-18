@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="postgresql-42.7.3">
+    <archive path="/Users/jason/Downloads/postgresql-42.7.3.jar" />
+  </library>
+</eclipse-userlibraries>
+
