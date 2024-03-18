@@ -1,5 +1,6 @@
 Student Name: Jason Wang
 Student Number: 101250080
+
 Instructions:
     In Intellij, go to File > Open, and then select the folder Assignment3Part1
     The Java class file src/Main.java
