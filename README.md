@@ -11,10 +11,12 @@ Instructions:
     
     All 4 functions are below the main function
 
+    Click Run in Main.java in Intellij to run the code
+
 In PgAdmin:
 
     Database must be called Students
-    
+
     I have included the initial setup query SQL code in the SQL.txt file
 
 Demonstration Video Link: https://youtu.be/em3PX5l6-L8
